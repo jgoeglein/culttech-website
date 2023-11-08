@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(#ccc, #dedede);
+}
+
+.shingle {
+    background: linear-gradient(.12turn, #dedede, #fff, #dedede);
+    filter: drop-shadow(5px 4px 3px #aaa);
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+.shingle img {
+    filter: drop-shadow(2px 4px 4px black);
+}
